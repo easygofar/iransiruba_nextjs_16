@@ -1,0 +1,473 @@
+export const dynamic = 'force-static'
+
+export default function sitemap() {
+  return [
+    {
+      url: "https://iransiruba.com/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 1,
+    },
+    {
+      url: "https://iransiruba.com/products/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.95,
+    },
+    {
+      url: "https://iransiruba.com/introduction/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.95,
+    },
+    {
+      url: "https://iransiruba.com/history/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.95,
+    },
+    {
+      url: "https://iransiruba.com/downloads/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.95,
+    },
+    {
+      url: "https://iransiruba.com/contact/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.95,
+    },
+    {
+      url: "https://iransiruba.com/customercare/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.95,
+    },
+
+    {
+      url: "https://iransiruba.com/products/overlock-zig-zal/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/interlocks/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/overlock-scrubs/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch-two-needle/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch-right-trimmer/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/chainstitch-single-needle-hook/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/chainstitch-three-needle-hook/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/interlock-elastic-binding/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/lz-series/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/bartacking-machine/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/button-sewing/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/eyelet-button-hole/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/bartacking-elik/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/multi-needle-picoting/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/needle-feed-off-the-arm/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/flatseamer/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/automatic-bottom-hemming/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch/DL720-M1/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch/DL7200C-BM1-16Q/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch/DL7200C-BH1-16Q/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/overlock-zig-zal/737L-504M-3-04/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/overlock-zig-zal/747L-514M-3-24/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/overlock-zig-zal/757L-516M-3-35/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/overlock-zig-zal/757L-516X-3-56/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/interlocks/F007KD-U712-264/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/interlocks/F007KD-W122-364/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/overlock-scrubs/757L-401M-8-50/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch-two-needle/DT828L-42-064M/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch-two-needle/DT828L-75-064H/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch-right-trimmer/DL7200C-RM1-48-12/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/chainstitch-single-needle-hook/DL3881/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/chainstitch-three-needle-hook/DL3883-64/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/interlock-elastic-binding/F007KD-W522-364/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/lz-series/LZ457A-143N-L/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/bartacking-machine/BT630Q-02E/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/button-sewing/PK511/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/button-sewing/LKS-1903AN-SS302/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/eyelet-button-hole/BH9820-01/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/eyelet-button-hole/BH9820-02/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/bartacking-elik/LKS-1900AN-SS/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/bartacking-elik/LKS-1900AN-HS/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/multi-needle-picoting/HF008-02064P/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/multi-needle-picoting/VC008A-12064P/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/needle-feed-off-the-arm/FA007-364M/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/flatseamer/D007S-460-02R/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/automatic-bottom-hemming/ASC-TBH200/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/bartacking-elik/BT430Q-06/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/bartacking-elik/BT530Q-01/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/overlock-zig-zal/747LQ-514M-3-24/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+
+    {
+      url: "https://iransiruba.com/products/lockstitch/DL7500S-BM1-16/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch/DL7500S-BH1-16/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/lockstitch/DL720G/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+
+    {
+      url: "https://iransiruba.com/products/overlock-zig-zal/737LQ-504M-3-04/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+
+    {
+      url: "https://iransiruba.com/products/overlock-zig-zal/757LQ-516M-3-35/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+
+    {
+      url: "https://iransiruba.com/products/overlock-zig-zal/747KST-514M-3-24/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/portable-bag-closer/AA-6-50/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/needle-feed-off-the-arm/FA007-364H/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/interlock-elastic-binding/F007KD-W522-240/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/multi-needle-picoting/HF008-0664-254P/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+
+    {
+      url: "https://iransiruba.com/products/multi-needle-picoting/C007KP-W152-356/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/multi-needle-picoting/C007KP-W532-W356/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/eyelet-button-hole/LBHS-1790DS/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+
+    {
+      url: "https://iransiruba.com/products/interlocks/C007KP-W812A-356/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+
+    {
+      url: "https://iransiruba.com/products/needle-feed-off-the-arm/FA007D-364H/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+
+    {
+      url: "https://iransiruba.com/products/needle-feed-off-the-arm/FA007D-364M/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+
+    {
+      url: "https://iransiruba.com/products/bartacking-elik/LKS-1900D-SS/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: "https://iransiruba.com/products/bartacking-elik/LKS-1900D-HS/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+
+    {
+      url: "https://iransiruba.com/technology/stepping-motor/",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+  ];
+}
